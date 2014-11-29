@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/CExBBartolome/mynosql/issues"
   },
-  "homepage": "https://github.com/CExBBartolome/mynosql"
+  "homepage": "https://github.com/CExBBartolome/mynosql",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-plato": "^1.3.0",
+    "istanbul": "^0.3.2",
+    "mocha": "^2.0.1",
+    "proxyquire": "^1.1.0"
+  }
 }
