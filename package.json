@@ -1,0 +1,22 @@
+{
+  "name": "mynosql",
+  "version": "1.0.0",
+  "description": "Stores JSON objects into MySQL for indexing.",
+  "main": "mynosql.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CExBBartolome/mynosql.git"
+  },
+  "keywords": [
+    "mynosql"
+  ],
+  "author": "CExBBartolome",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/CExBBartolome/mynosql/issues"
+  },
+  "homepage": "https://github.com/CExBBartolome/mynosql"
+}
