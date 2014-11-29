@@ -16,7 +16,7 @@ module.exports = function(grunt) {
 		                jshint : grunt.file.readJSON('.jshintrc')
 		              },
 	              files: {
-		                'plato': ['mynosql.js']
+		                'plato': ['mynosql.js','lib/**/*.js','test/**/*.js']
 		              }
 	            }
 	    }

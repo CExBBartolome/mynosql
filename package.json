@@ -4,7 +4,7 @@
   "description": "Stores JSON objects into MySQL for indexing.",
   "main": "mynosql.js",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha --recursive -u tdd"
   },
   "repository": {
     "type": "git",
